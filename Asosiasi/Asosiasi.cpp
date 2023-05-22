@@ -3,4 +3,4 @@
 
 using namespace std;
 
-class dokter;
+class dokter; 
